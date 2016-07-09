@@ -39,7 +39,7 @@ def help():
     print "     the speed of light for a long period will likely dilate the Earth clock"
     print "     (your computer) beyond its limit and eventually throw an error.\n"
     print "See: https://en.wikipedia.org/wiki/Twin_paradox\n"
-    print "Example: " + sys.argv[0] + "-v 99.9999999999 -s 120\n"
+    print "Example: " + sys.argv[0] + " -v 99.9999999999 -s 120\n"
     sys.exit()
 
 def main():
