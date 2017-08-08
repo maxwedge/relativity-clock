@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#https://github.com/UltraSparky/relativity-clock/rel.py
+#https://github.com/maxwedge/relativity-clock/rel.py
 import sys,os,math,time,getopt
 from decimal import *
 getcontext()
